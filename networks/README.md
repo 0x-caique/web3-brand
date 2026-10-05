@@ -1,3 +1,3 @@
 # Networks
 
-Logos de redes blockchain principais e emergentes, incluindo Layer 1 e Layer 2. Os nomes são slugs minúsculos seguidos de `_logo.svg`.
+Logos SVG coloridos de redes blockchain Layer 1 e Layer 2, provenientes da variante `branded` do Web3Icons. Nomes em minúsculas com sufixo `_logo.svg`.

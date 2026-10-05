@@ -1,3 +1,3 @@
 # RWA
 
-Logos disponíveis para tokens e projetos relacionados a ativos do mundo real: CFG (Centrifuge), MKR (Maker), PAXG (Pax Gold) e XAUT (Tether Gold). A pasta será expandida conforme logos SVG oficiais verificáveis forem encontrados.
+Logos de ativos e tokens ligados a ativos do mundo real: CFG, MKR, PAXG e XAUT. Como estes ativos também são tokens listados na categoria geral, os mesmos logos aparecem em `tokens/`; a pasta RWA é uma classificação temática, não uma pasta duplicada. Consulte `../ASSET_SOURCES.csv` para as fontes.

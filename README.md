@@ -1,24 +1,24 @@
 # Web3 Brand
 
-Coleção de logos SVG de criptoativos, redes, ações tokenizadas, ativos do mundo real (RWA) e protocolos DeFi.
+Coleção de logos SVG para criptoativos, ações tokenizadas, RWA, redes blockchain e protocolos DeFi. Os arquivos foram mantidos em SVG com as cores e os fundos presentes nas fontes; não foram convertidos em ícones monocromáticos.
 
 ## Pastas
 
-- `tokens/`: tokens selecionados entre os maiores ativos listados pela CoinGecko e CoinMarketCap.
-- `stocks/`: logos das principais ações e representações de ações tokenizadas; os nomes seguem símbolos usados em produtos tokenizados quando disponíveis (ex.: `nvdax_logo.svg`).
-- `rwa/`: logos de ativos e tokens ligados a ativos do mundo real. Esta seleção inclui CFG, MKR, PAXG e XAUT.
-- `networks/`: redes blockchain relevantes, L1s e L2s.
+- `tokens/`: 44 tokens selecionados entre os principais ativos do CoinGecko e CoinMarketCap.
+- `stocks/`: 22 logos de empresas por ticker subjacente. Os nomes de arquivo seguem símbolos de ações tokenizadas quando aplicável (`nvdax_logo.svg` usa a marca da NVIDIA/NVDA).
+- `rwa/`: logos para ativos ligados a RWAs: CFG, MKR, PAXG e XAUT.
+- `networks/`: redes blockchain L1 e L2.
 - `defi-protocols/`: protocolos DeFi.
 
-Os rankings mudam com o mercado. Esta seleção foi revisada em 5 de outubro de 2026 e não representa recomendação de investimento. Os nomes dos arquivos são minúsculos e seguem `<ticker-ou-rede>_logo.svg`.
+Existe uma pasta única para cada categoria. Um mesmo logo pode aparecer em mais de uma categoria quando o ativo serve a ambas (por exemplo, um token de rede também pode ter sua própria pasta em `networks/`).
 
-## Fontes
+## Origem dos arquivos
 
-- [CoinGecko — todas as criptomoedas](https://www.coingecko.com/en/all-cryptocurrencies)
-- [CoinGecko — ações tokenizadas](https://www.coingecko.com/en/stocks)
-- [CoinGecko — produtos tokenizados](https://www.coingecko.com/en/categories/tokenized-products)
-- [CoinMarketCap — ranking de criptomoedas](https://coinmarketcap.com/coins/views/all/)
-- SVGs de tokens e redes: [Web3Icons](https://github.com/0xa3k5/web3icons)
-- Logos de empresas: [Simple Icons](https://github.com/simple-icons/simple-icons)
+- Logos coloridos de tokens: variante `background` do [Web3Icons](https://github.com/0xa3k5/web3icons).
+- Logos de redes: variante `branded` do [Web3Icons](https://github.com/0xa3k5/web3icons).
+- Logos de ações: SVGs da coleção [ticker-logos](https://github.com/ShaadyEmad/ticker-logos), creditada nos próprios arquivos como Finnhub, selecionados pelo ticker da empresa subjacente.
+- Veja [ASSET_SOURCES.csv](ASSET_SOURCES.csv) para rastrear cada arquivo adicionado ou atualizado.
 
-Veja `THIRD_PARTY_NOTICES.md` para licenças e atribuições.
+As seleções de tokens e categorias usam [CoinGecko](https://www.coingecko.com/en/all-cryptocurrencies), [CoinMarketCap](https://coinmarketcap.com/coins/views/all/), [CoinGecko Tokenized Stocks](https://www.coingecko.com/en/stocks) e [CoinGecko Tokenized Products](https://www.coingecko.com/en/categories/tokenized-products). Os rankings variam com o mercado; revisão feita em 5 de outubro de 2026.
+
+Veja [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) para atribuições e notas de direitos de uso.

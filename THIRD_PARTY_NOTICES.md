@@ -2,12 +2,12 @@
 
 ## Web3Icons
 
-Os SVGs de tokens e redes desta coleção são provenientes de [Web3Icons](https://github.com/0xa3k5/web3icons), distribuído sob a licença MIT. Copyright (c) 2024 0xa3k5.
+Os logos de tokens e redes são provenientes de [Web3Icons](https://github.com/0xa3k5/web3icons), distribuído sob a licença MIT. Copyright (c) 2024 0xa3k5. A atribuição e os termos da licença estão também em `defi-protocols/THIRD_PARTY_NOTICES.md`.
 
-## Simple Icons
+## Finnhub / ticker-logos
 
-Os SVGs de marcas de empresas são provenientes de [Simple Icons](https://github.com/simple-icons/simple-icons), distribuído sob CC0 1.0 Universal.
+Os SVGs em `stocks/` foram copiados da coleção pública [ticker-logos](https://github.com/ShaadyEmad/ticker-logos); os arquivos carregam o comentário de origem `by Finnhub`. O repositório ticker-logos não apresenta um arquivo de licença no diretório raiz consultado. Os logos permanecem marcas de suas respectivas empresas; confirme os direitos aplicáveis antes de redistribuir comercialmente.
 
-## Marcas registradas
+## Marcas
 
-Nomes e logos de tokens, blockchains, empresas e produtos podem ser marcas de seus respectivos titulares. A inclusão nesta coleção não implica afiliação, endosso ou parceria. Verifique os termos dos titulares antes de uso comercial.
+Nomes e logos de tokens, blockchains, empresas e produtos permanecem propriedade de seus respectivos titulares. A inclusão nesta coleção não implica afiliação, endosso ou parceria.
