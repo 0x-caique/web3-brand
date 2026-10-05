@@ -1,0 +1,681 @@
+issuer,tokenized_symbol,underlying_ticker,company_or_product,logo_path,logo_status,source_url
+Ondo,IWNon,IWN,"iShares Russell 2000 Value ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,QBTSon,QBTS,"D-Wave Quantum (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TIPon,TIP,"iShares TIPS Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ITOTon,ITOT,"iShares Core S&P Total US Stock Market ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HYGon,HYG,"iBoxx $ High Yield Corporate Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GMEon,GME,"GameStop (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PBRon,PBR,"Petrobras (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EQIXon,EQIX,"Equinix (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RIOTon,RIOT,"Riot Platforms (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MARAon,MARA,"MARA Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PFEon,PFE,"Pfizer (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EEMon,EEM,"iShares MSCI Emerging Markets ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PYPLon,PYPL,"PayPal (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ABTon,ABT,"Abbott (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HIMSon,HIMS,"Hims & Hers Health (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NVOon,NVO,"Novo Nordisk (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EFAon,EFA,"iShares MSCI EAFE ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NKEon,NKE,"Nike (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,INTCon,INTC,"Intel (Ondo Tokenized)",stocks/intcx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IEFAon,IEFA,"iShares Core MSCI EAFE ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SMCIon,SMCI,"Super Micro Computer (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MRVLon,MRVL,"Marvell Technology (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AGGon,AGG,"iShares Core US Aggregate Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UBERon,UBER,"Uber (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,QCOMon,QCOM,"Qualcomm (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SBUXon,SBUX,"Starbucks (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ABNBon,ABNB,"Airbnb (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CSCOon,CSCO,"Cisco Systems (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CMGon,CMG,"Chipotle (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FUTUon,FUTU,"Futu Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,KOon,KO,"Coca-Cola (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IWFon,IWF,"iShares Russell 1000 Growth ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LINon,LIN,"Linde plc (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ARMon,ARM,"Arm Holdings plc (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,JDon,JD,"JD.com (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MUon,MU,"Micron Technology (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HOODon,HOOD,"Robinhood Markets (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WMTon,WMT,"Walmart (Ondo Tokenized)",stocks/wmtx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TMon,TM,"Toyota (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SHOPon,SHOP,"Shopify (Ondo Tokenized)",stocks/shopx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RDDTon,RDDT,"Reddit (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,APOon,APO,"Apollo Global Management (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DISon,DIS,"Disney (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PEPon,PEP,"PepsiCo (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AMDon,AMD,"AMD (Ondo Tokenized)",stocks/amdx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WFCon,WFC,"Wells Fargo (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BIDUon,BIDU,"Baidu (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ORCLon,ORCL,"Oracle (Ondo Tokenized)",stocks/orclx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PGon,PG,"Procter & Gamble (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PLTRon,PLTR,"Palantir Technologies (Ondo Tokenized)",stocks/pltrx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CRCLon,CRCL,"Circle Internet Group (Ondo Tokenized)",stocks/crclx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SPGIon,SPGI,"S&P Global (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CVXon,CVX,"Chevron (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TSMon,TSM,"Taiwan Semiconductor Manufacturing (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PANWon,PANW,"Palo Alto Networks (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BABAon,BABA,"Alibaba (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AVGOon,AVGO,"Broadcom (Ondo Tokenized)",stocks/avgox_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,JPMon,JPM,"JPMorgan Chase (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CRMon,CRM,"Salesforce (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AMZNon,AMZN,"Amazon (Ondo Tokenized)",stocks/amznx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SNOWon,SNOW,"Snowflake (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GOOGLon,GOOGL,"Alphabet Class A (Ondo Tokenized)",stocks/googlx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AXPon,AXP,"American Express (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IBMon,IBM,"IBM (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DASHon,DASH,"DoorDash (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ACNon,ACN,"Accenture (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IJHon,IJH,"iShares Core S&P MidCap ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,COINon,COIN,"Coinbase (Ondo Tokenized)",stocks/coinx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BAon,BA,"Boeing (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GEon,GE,"General Electric (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,APPon,APP,"AppLovin (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AAPLon,AAPL,"Apple (Ondo Tokenized)",stocks/aaplx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MAon,MA,"Mastercard (Ondo Tokenized)",stocks/max_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LMTon,LMT,"Lockheed (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,INTUon,INTU,"Intuit (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MCDon,MCD,"McDonald's (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MSTRon,MSTR,"MicroStrategy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GSon,GS,"Goldman Sachs (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ADBEon,ADBE,"Adobe (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NVDAon,NVDA,"NVIDIA (Ondo Tokenized)",stocks/nvdax_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UNHon,UNH,"UnitedHealth (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MSFTon,MSFT,"Microsoft (Ondo Tokenized)",stocks/msftx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,Von,V,"Visa (Ondo Tokenized)",stocks/vx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SPOTon,SPOT,"Spotify (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TSLAon,TSLA,"Tesla (Ondo Tokenized)",stocks/tslax_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BLKon,BLK,"Blackrock, Inc. (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ASMLon,ASML,"ASML Holding NV (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LLYon,LLY,"Eli Lilly (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NOWon,NOW,"ServiceNow (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,METAon,META,"Meta Platforms (Ondo Tokenized)",stocks/metax_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IWMon,IWM,"iShares Russell 2000 ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TLTon,TLT,"iShares 20+ Year Treasury Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,COSTon,COST,"Costco (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NFLXon,NFLX,"Netflix (Ondo Tokenized)",stocks/nflxx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IVVon,IVV,"iShares Core S&P 500 ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SLVon,SLV,"iShares Silver Trust (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MELIon,MELI,"MercadoLibre (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IAUon,IAU,"iShares Gold Trust (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,QQQon,QQQ,"Invesco QQQ (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SPYon,SPY,"SPDR S&P 500 ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SBETon,SBET,"SharpLink Gaming (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FIGon,FIG,"Figma (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IEMGon,IEMG,"iShares Core MSCI Emerging Markets ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AALon,AAL,"American Airlines Group (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ABBVon,ABBV,"AbbVie (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ACHRon,ACHR,"Archer Aviation (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ADIon,ADI,"Analog Devices (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AMATon,AMAT,"Applied Materials (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AMCon,AMC,"AMC Entertainment (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AMGNon,AMGN,"Amgen (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ANETon,ANET,"Arista Networks (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BACon,BAC,"Bank of America (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BBAIon,BBAI,"BigBear.ai Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BILIon,BILI,"Bilibili (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BINCon,BINC,"iShares Flexible Income Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BLSHon,BLSH,"Bullish (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BMNRon,BMNR,"BitMine Immersion Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BTGon,BTG,"B2Gold (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BZon,BZ,"Kanzhun (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CATon,CAT,"Caterpillar (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CEGon,CEG,"Constellation Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CIFRon,CIFR,"Cipher Mining (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CLOAon,CLOA,"iShares AAA CLO Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CLOIon,CLOI,"VanEck CLO ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,COFon,COF,"Capital One (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,COPXon,COPX,"Global X Copper Miners ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,COPon,COP,"ConocoPhillips (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CPNGon,CPNG,"Coupang (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CRWDon,CRWD,"CrowdStrike (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CVNAon,CVNA,"Carvana (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,Con,C,"Citigroup (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DBCon,DBC,"Invesco DB Commodity Index Tracking Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DEon,DE,"Deere (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DGRWon,DGRW,"WisdomTree US Quality Dividend Growth Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DNNon,DNN,"Denison Mines (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FIGRon,FIGR,"Figure Technology Solutions (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FTGCon,FTGC,"First Trust Global Tactical Commodity Strategy Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,Fon,F,"Ford Motor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GEMIon,GEMI,"Gemini Space Station (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GLDon,GLD,"SPDR Gold Shares (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GRABon,GRAB,"Grab Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GRNDon,GRND,"Grindr (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HDon,HD,"Home Depot (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IRENon,IREN,"IREN (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ISRGon,ISRG,"Intuitive Surgical (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,JAAAon,JAAA,"Janus Henderson AAA CLO ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,JNJon,JNJ,"Johnson & Johnson (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,KLACon,KLAC,"KLA (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LIon,LI,"Li Auto (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LOWon,LOW,"Lowe's (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LRCXon,LRCX,"Lam Research (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MPon,MP,"MP Materials (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MRKon,MRK,"Merck (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MRNAon,MRNA,"Moderna (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MTZon,MTZ,"MasTec (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NEEon,NEE,"NextEra Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NIKLon,NIKL,"Sprott Nickel Miners ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NIOon,NIO,"NIO (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NTESon,NTES,"NetEase (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,OKLOon,OKLO,"Oklo (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ONDSon,ONDS,"Ondas Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ONon,ON,"ON Semiconductor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,OPENon,OPEN,"Opendoor Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,OPRAon,OPRA,"Opera (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,OSCRon,OSCR,"Oscar Health (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,OXYon,OXY,"Occidental Petroleum (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PALLon,PALL,"abrdn Physical Palladium Shares ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PCGon,PCG,"PG&E (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PDBCon,PDBC,"Invesco Optimum Yld Dvsfd Cmd Str No K-1 ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PDDon,PDD,"PDD Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PINSon,PINS,"Pinterest (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PLUGon,PLUG,"Plug Power (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PSQon,PSQ,"ProShares Short QQQ (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,REMXon,REMX,"VanEck Rare Earth and Strategic Metals ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RGTIon,RGTI,"Rigetti Computing (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RIVNon,RIVN,"Rivian Automotive (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RTXon,RTX,"RTX (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SCHWon,SCHW,"Charles Schwab (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SGOVon,SGOV,"iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SNAPon,SNAP,"Snap (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SOFIon,SOFI,"SoFi Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SOUNon,SOUN,"SoundHound AI (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SOon,SO,"Southern (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SQQQon,SQQQ,"ProShares UltraPro Short QQQ (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TCOMon,TCOM,"Trip.com Group (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TLNon,TLN,"Talen Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TMOon,TMO,"Thermo Fisher Scientific (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TMUSon,TMUS,"T-Mobile US (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TQQQon,TQQQ,"ProShares UltraPro QQQ (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TXNon,TXN,"Texas Instruments (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,Ton,T,"AT&T (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,USFRon,USFR,"WisdomTree Floating Rate Treasury Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,USOon,USO,"United States Oil Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VRTon,VRT,"Vertiv (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VSTon,VST,"Vistra (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VTIon,VTI,"Vanguard Total Stock Market ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VTVon,VTV,"Vanguard Value ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VZon,VZ,"Verizon (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WULFon,WULF,"Terawulf (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,XOMon,XOM,"Exxon Mobil (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,XYZon,XYZ,"Block (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BTGOon,BTGO,"BitGo Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,STRCon,STRC,"Strategy Stretch Preferred (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ALBon,ALB,"Albemarle (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,APLDon,APLD,"Applied Digital (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ASTSon,ASTS,"AST SpaceMobile (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BNOon,BNO,"US Brent Oil Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CAPRon,CAPR,"Capricor Therapeutics (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CIBRon,CIBR,"First Trust NASDAQ Cybersecurity ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,COHRon,COHR,"Coherent (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CRWVon,CRWV,"CoreWeave (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ECHon,ECH,"iShares MSCI Chile ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ENLVon,ENLV,"Enlivex Therapeutics (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ENPHon,ENPH,"Enphase Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ETNon,ETN,"Eaton (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EWJon,EWJ,"iShares MSCI Japan ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EWYon,EWY,"iShares MSCI South Korea ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EWZon,EWZ,"iShares MSCI Brazil ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EXODon,EXOD,"Exodus Movement (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FCXon,FCX,"Freeport-McMoRan (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FFOGon,FFOG,"Franklin Focused Growth ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FGDLon,FGDL,"Franklin Responsibly Sourced Gold ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FLHYon,FLHY,"Franklin High Yield Corporate ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FLQLon,FLQL,"Franklin US Large Cap Multifactor Index ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FXIon,FXI,"iShares China Large-Cap ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GEVon,GEV,"GE Vernova (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GLTRon,GLTR,"abrdn Physical Precious Metals Basket Shares ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GLXYon,GLXY,"Galaxy Digital (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HYSon,HYS,"PIMCO 0-5 Year High Yield Corporate Bond Index ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IEFon,IEF,"iShares 7-10 Year Treasury Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,INCEon,INCE,"Franklin Income Equity Focus ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,INDAon,INDA,"iShares MSCI India ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IONQon,IONQ,"IonQ (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ITAon,ITA,"iShares US Aerospace and Defense ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,KWEBon,KWEB,"KraneShares CSI China Internet ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LUNRon,LUNR,"Intuitive Machines (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NBISon,NBIS,"Nebius Group (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NEMon,NEM,"Newmont (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NOCon,NOC,"Northrop Grumman (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,OIHon,OIH,"VanEck Oil Services ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PAVEon,PAVE,"Global X US Infrastructure Development ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PPLTon,PPLT,"abrdn Physical Platinum Shares ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,QUBTon,QUBT,"Quantum Computing (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RDWon,RDW,"Redwire (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,REGNon,REGN,"Regeneron Pharmaceuticals (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RKLBon,RKLB,"Rocket Lab (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SCCOon,SCCO,"Southern Copper (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SEDGon,SEDG,"SolarEdge Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SHYon,SHY,"iShares 1-3 Year Treasury Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SNDKon,SNDK,"SanDisk (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SOXXon,SOXX,"iShares Semiconductor ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,STXon,STX,"Seagate (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UECon,UEC,"Uranium Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UNGon,UNG,"US Natural Gas Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UNPon,UNP,"Union Pacific Corporation (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,URAon,URA,"Global X Uranium ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VFSon,VFS,"VinFast Auto (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VNQon,VNQ,"Vanguard Real Estate ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VRTXon,VRTX,"Vertex Pharmaceuticals (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WDCon,WDC,"Western Digital (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WMon,WM,"Waste Management (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IBITon,IBIT,"iShares Bitcoin Trust (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ETHAon,ETHA,"iShares Ethereum Trust ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FSOLon,FSOL,"Fidelity Solana Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GLWon,GLW,"Corning (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LITEon,LITE,"Lumentum Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AAOIon,AAOI,"Applied Optoelectronics (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AXTIon,AXTI,"AXT (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NVTon,NVT,"nVent Electric (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LASRon,LASR,"nLIGHT (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FORMon,FORM,"FormFactor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MKSIon,MKSI,"MKS Inc. (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ICHRon,ICHR,"Ichor Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AEHRon,AEHR,"Aehr Test Systems (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CAMTon,CAMT,"Camtek (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WOLFon,WOLF,"Wolfspeed (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,POWIon,POWI,"Power Integrations (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TELon,TEL,"TE Connectivity (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HUBBon,HUBB,"Hubbell (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WSon,WS,"Worthington Steel (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ATKRon,ATKR,"Atkore (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NETon,NET,"Cloudflare (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,USARon,USAR,"USA Rare Earth (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HIMXon,HIMX,"Himax Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MXLon,MXL,"MaxLinear (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ONTOon,ONTO,"Onto Innovation (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,OUSTon,OUST,"Ouster (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TERon,TER,"Teradyne (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NOKon,NOK,"Nokia (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PLon,PL,"Planet Labs (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ENBon,ENB,"Enbridge (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MYRGon,MYRG,"MYR Group (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ENTGon,ENTG,"Entegris (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HPEon,HPE,"Hewlett Packard Enterprise (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BOTon,BOT,"RoboStrategy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AOSLon,AOSL,"Alpha and Omega Semiconductor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BEon,BE,"Bloom Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SMRon,SMR,"NuScale Power (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,STMon,STM,"STMicroelectronics (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EQTon,EQT,"EQT (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SAPon,SAP,"SAP (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WMBon,WMB,"Williams (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NNEon,NNE,"NANO Nuclear Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FLNCon,FLNC,"Fluence Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CBRSon,CBRS,"Cerebras Systems (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DELLon,DELL,"Dell Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TSEMon,TSEM,"Tower Semiconductor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CIENon,CIEN,"Ciena (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FNon,FN,"Fabrinet (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ARQQon,ARQQ,"Arqit Quantum (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ALABon,ALAB,"Astera Labs (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CRDOon,CRDO,"Credo Technology Group Holding (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MTSIon,MTSI,"MACOM Technology Solutions Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LWLGon,LWLG,"Lightwave Logic (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PENGon,PENG,"Penguin Solutions (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FCELon,FCEL,"FuelCell Energy (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VPGon,VPG,"Vishay Precision Group (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LPTHon,LPTH,"LightPath Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ROKon,ROK,"Rockwell Automation (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MBLYon,MBLY,"Mobileye Global (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AURon,AUR,"Aurora Innovation (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CLSon,CLS,"Celestica (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,KOPNon,KOPN,"Kopin (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GNRCon,GNRC,"Generac Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TTon,TT,"Trane Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VCXon,VCX,"Fundrise Innovation Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GFSon,GFS,"GlobalFoundries (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UUUUon,UUUU,"Energy Fuels (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PWRon,PWR,"Quanta Services (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CORZon,CORZ,"Core Scientific (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HUTon,HUT,"Hut 8 (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VICRon,VICR,"Vicor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,APHon,APH,"Amphenol (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,POWLon,POWL,"Powell Industries (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CLFon,CLF,"Cleveland-Cliffs (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CCJon,CCJ,"Cameco (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NVTSon,NVTS,"Navitas Semiconductor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BRLNon,BRLN,"iShares Floating Rate Loan Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IGEBon,IGEB,"iShares Investment Grade Systematic Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,QLTAon,QLTA,"iShares Aaa - A Rated Corporate Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BRHYon,BRHY,"iShares High Yield Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BLCRon,BLCR,"iShares Large Cap Core Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,INROon,INRO,"iShares US Industry Rotation Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DYNFon,DYNF,"iShares US Equity Factor Rotation Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BAIon,BAI,"iShares A.I. Innovation and Tech Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,COROon,CORO,"iShares International Country Rotation Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BRTRon,BRTR,"iShares Total Return Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IALTon,IALT,"iShares Systematic Alternatives Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,OIIon,OII,"Oceaneering International (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IRDMon,IRDM,"Iridium Communications (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DRSon,DRS,"Leonardo DRS (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HIIon,HII,"Huntington Ingalls Industries (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GDon,GD,"General Dynamics (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VDEon,VDE,"Vanguard Energy ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,URNMon,URNM,"Sprott Uranium Miners ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CPERon,CPER,"US Copper Index Fund (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AGon,AG,"First Majestic Silver (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SLBon,SLB,"SLB (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HALon,HAL,"Halliburton (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,QTUMon,QTUM,"Defiance Quantum ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SWKSon,SWKS,"Skyworks Solutions (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UMCon,UMC,"United Microelectronics (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,JBLon,JBL,"Jabil (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FLEXon,FLEX,"Flex (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SOXQon,SOXQ,"Invesco PHLX Semiconductor ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SOXLon,SOXL,"Direxion Daily Semi Bull 3X ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SOXSon,SOXS,"Direxion Daily Semi Bear 3X ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UCTTon,UCTT,"Ultra Clean Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ACLSon,ACLS,"Axcelis Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,COHUon,COHU,"Cohu (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,KEYSon,KEYS,"Keysight Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IGVon,IGV,"iShares Expanded Tech-Software ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VRSNon,VRSN,"VeriSign (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,VSHon,VSH,"Vishay Intertechnology (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,MEIon,MEI,"Methode Electronics (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RMBSon,RMBS,"Rambus (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AIPon,AIP,"Arteris (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EXTRon,EXTR,"Extreme Networks (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WYFIon,WYFI,"WhiteFiber (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DGXXon,DGXX,"Digi Power X (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BTDRon,BTDR,"Bitdeer Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,KEELon,KEEL,"Keel Infrastructure (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HIVEon,HIVE,"HIVE Digital Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TTMIon,TTMI,"TTM Technologies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PRIMon,PRIM,"Primoris Services (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LECOon,LECO,"Lincoln Electric (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AMEon,AME,"AMETEK (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,FPSon,FPS,"Forgent Power Solutions (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WCCon,WCC,"WESCO International (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BWETon,BWET,"Breakwave Tanker Shipping ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,STNGon,STNG,"Scorpio Tankers (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TNKon,TNK,"Teekay Tankers (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,INSWon,INSW,"International Seaways (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TENon,TEN,"Tsakos Energy Navigation (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NATon,NAT,"Nordic American Tankers (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ECOon,ECO,"Okeanis Eco Tankers (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WLKon,WLK,"Westlake (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NUEon,NUE,"Nucor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,STLDon,STLD,"Steel Dynamics (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LSCCon,LSCC,"Lattice Semiconductor (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,CEVAon,CEVA,"CEVA (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EMRon,EMR,"Emerson Electric (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SYMon,SYM,"Symbotic (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,TASKon,TASK,"TaskUs (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,INODon,INOD,"Innodata (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HSAIon,HSAI,"Hesai Group (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,UAMYon,UAMY,"United States Antimony (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ALOYon,ALOY,"REalloys (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ACMRon,ACMR,"ACM Research (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NVMIon,NVMI,"Nova (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AMKRon,AMKR,"Amkor Technology (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AAONon,AAON,"AAON (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HLITon,HLIT,"Harmonic (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DRAMon,DRAM,"Roundhill Memory ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ARGTon,ARGT,"Global X MSCI Argentina ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,PURRon,PURR,"Hyperliquid Strategies (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SHLDon,SHLD,"Global X Defense Tech ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BOTZon,BOTZ,"Global X Robotics & Artificial Intelligence ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LITon,LIT,"Global X Lithium & Battery Tech ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,DTCRon,DTCR,"Global X Data Center & Digital Infrastructure ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,ORBXon,ORBX,"Global X Space Tech ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EUHYon,EUHY,"iShares Euro High Yield Corporate Bond USD Hedged ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,LEMBon,LEMB,"iShares J.P. Morgan EM Local Currency Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IDEFon,IDEF,"iShares Defense Industrials Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GGOVon,GGOV,"iShares Global Government Bond USD Hedged Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,QYLDon,QYLD,"Global X NASDAQ 100 Covered Call ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SILon,SIL,"Global X Silver Miners ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AIQon,AIQ,"Global X Artificial Intelligence & Technology ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BKCHon,BKCH,"Global X Blockchain ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,EFVon,EFV,"iShares MSCI EAFE Value ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IJSon,IJS,"iShares S&P Small-Cap 600 Value ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IYWon,IYW,"iShares US Technology ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,XYLDon,XYLD,"Global X S&P 500 Covered Call ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,BILon,BIL,"SPDR Bloomberg 1-3 Month T-Bill ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,IEIon,IEI,"iShares 3-7 Year Treasury Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,YEARon,YEAR,"AB Ultra Short Income ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SATAon,SATA,"Strive Preferred (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SPCXon,SPCX,"SpaceX (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SKHYon,SKHY,"SK Hynix (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SYSBon,SYSB,"iShares Systematic Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,SECUon,SECU,"iShares Securitized Income Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HYGWon,HYGW,"iShares High Yield Corporate Bond BuyWrite Strategy ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HYDBon,HYDB,"iShares High Yield Systematic Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,USHYon,USHY,"iShares Broad USD High Yield Corporate Bond ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,NEARon,NEAR,"iShares Short Duration Bond Active ETF (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,GOOGon,GOOG,"Alphabet Inc. Class C (Ondo Tokenized)",stocks/googx_logo.svg,logo_existente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,RXRXon,RXRX,"Recursion Pharmaceuticals (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,HTZon,HTZ,"Hertz Global Holdings (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,WENon,WEN,"Wendy's (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+Ondo,AIon,AI,"C3.ai (Ondo Tokenized)",,logo_pendente,https://github.com/ondoprotocol/ondo-global-markets-token-list/blob/main/tokenlist.json
+xStocks,AAPLx,AAPL,"Apple xStock",stocks/aaplx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,ABBVx,ABBV,"AbbVie xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,ABTx,ABT,"Abbott xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,AMDx,AMD,"AMD xStock",stocks/amdx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,AMZNx,AMZN,"Amazon.com xStock",stocks/amznx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,APPx,APP,"AppLovin xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,AVGOx,AVGO,"Broadcom xStock",stocks/avgox_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,AZNx,AZN,"AstraZeneca xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,BACx,BAC,"Bank of America xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,BRK.Bx,BRK.B,"Berkshire Hathaway xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,BTBTx,BTBT,"Bit Digital xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,CMCSAx,CMCSA,"Comcast xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,COINx,COIN,"Coinbase xStock",stocks/coinx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,CRCLx,CRCL,"Circle xStock",stocks/crclx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,CRMx,CRM,"Salesforce xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,CRWDx,CRWD,"CrowdStrike xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,CSCOx,CSCO,"Cisco xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,CVXx,CVX,"Chevron xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,DHRx,DHR,"Danaher xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,GLDx,GLD,"Gold xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,GMEx,GME,"Gamestop xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,GOOGLx,GOOGL,"Alphabet xStock",stocks/googlx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,GSx,GS,"Goldman Sachs xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,HONx,HON,"Honeywell xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,HOODx,HOOD,"Robinhood xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,IBMx,IBM,"International Business Machines xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,IEMGx,IEMG,"Core MSCI Emerging Markets xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,INTCx,INTC,"Intel xStock",stocks/intcx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,JNJx,JNJ,"Johnson & Johnson xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,JPMx,JPM,"JPMorgan Chase xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,KOx,KO,"Coca-Cola xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,LINx,LIN,"Linde xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,LLYx,LLY,"Eli Lilly xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,MAx,MA,"Mastercard xStock",stocks/max_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,MCDx,MCD,"McDonald's xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,METAx,META,"Meta xStock",stocks/metax_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,MRKx,MRK,"Merck xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,MRVLx,MRVL,"Marvell xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,MSFTx,MSFT,"Microsoft xStock",stocks/msftx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,MSTRx,MSTR,"MicroStrategy xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,NFLXx,NFLX,"Netflix xStock",stocks/nflxx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,NVDAx,NVDA,"NVIDIA xStock",stocks/nvdax_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,NVOx,NVO,"Novo Nordisk xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,ORCLx,ORCL,"Oracle xStock",stocks/orclx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,PEPx,PEP,"PepsiCo xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,PFEx,PFE,"Pfizer xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,PGx,PG,"Procter & Gamble xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,PLTRx,PLTR,"Palantir xStock",stocks/pltrx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,PMx,PM,"Philip Morris xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,QQQx,QQQ,"Nasdaq xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,SLVx,SLV,"iShares Silver Trust xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,SPYx,SPY,"SP500 xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,STRCx,STRC,"Strategy PP Variable xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,STRKx,STRK,"Strategy PP Fixed xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,TBLLx,TBLL,"TBLL xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,TQQQx,TQQQ,"TQQQ xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,TSLAx,TSLA,"Tesla xStock",stocks/tslax_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,UNHx,UNH,"UnitedHealth xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,VTIx,VTI,"Vanguard xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,VTx,VT,"Vanguard Total World xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,Vx,V,"Visa xStock",stocks/vx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,WMTx,WMT,"Walmart xStock",stocks/wmtx_logo.svg,logo_existente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+xStocks,XOMx,XOM,"Exxon Mobil xStock",,logo_pendente,https://github.com/backed-fi/cowswap-xstocks-tokenlist/blob/main/public_atomic_tokenlist.json
+Coinbase,AAPLc,AAPL,"AAPL tokenized stock",stocks/aaplx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,AEOc,AEO,"AEO tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,AMCc,AMC,"AMC tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,AMDc,AMD,"AMD tokenized stock",stocks/amdx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,AMZNc,AMZN,"AMZN tokenized stock",stocks/amznx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,ASTSc,ASTS,"ASTS tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,AVGOc,AVGO,"AVGO tokenized stock",stocks/avgox_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,BEc,BE,"BE tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,BIRDc,BIRD,"BIRD tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,BMNRc,BMNR,"BMNR tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,BYNDc,BYND,"BYND tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,CAKEc,CAKE,"CAKE tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,CIFRc,CIFR,"CIFR tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,CLSKc,CLSK,"CLSK tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,CRCLc,CRCL,"CRCL tokenized stock",stocks/crclx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,CRWVc,CRWV,"CRWV tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,DJTc,DJT,"DJT tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,DUOLc,DUOL,"DUOL tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,GMEc,GME,"GME tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,GOOGLc,GOOGL,"GOOGL tokenized stock",stocks/googlx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,HIMSc,HIMS,"HIMS tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,HTZc,HTZ,"HTZ tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,HUTc,HUT,"HUT tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,KSSc,KSS,"KSS tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,LCIDc,LCID,"LCID tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,LLYc,LLY,"LLY tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,MARAc,MARA,"MARA tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,METAc,META,"META tokenized stock",stocks/metax_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,MRNAc,MRNA,"MRNA tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,MRVLc,MRVL,"MRVL tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,MSFTc,MSFT,"MSFT tokenized stock",stocks/msftx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,MSTRc,MSTR,"MSTR tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,MUc,MU,"MU tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,NFLXc,NFLX,"NFLX tokenized stock",stocks/nflxx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,NVAXc,NVAX,"NVAX tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,NVDAc,NVDA,"NVDA tokenized stock",stocks/nvdax_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,OPENc,OPEN,"OPEN tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,ORCLc,ORCL,"ORCL tokenized stock",stocks/orclx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,PFEc,PFE,"PFE tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,PLTRc,PLTR,"PLTR tokenized stock",stocks/pltrx_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,PMc,PM,"PM tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,PTONc,PTON,"PTON tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,PYPLc,PYPL,"PYPL tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,QUBTc,QUBT,"QUBT tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,RBLXc,RBLX,"RBLX tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,RDDTc,RDDT,"RDDT tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,RIOTc,RIOT,"RIOT tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,SNDKc,SNDK,"SNDK tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,SOUNc,SOUN,"SOUN tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,SPCXc,SPCX,"SPCX tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,TSLAc,TSLA,"TSLA tokenized stock",stocks/tslax_logo.svg,logo_existente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,TTWOc,TTWO,"TTWO tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,USDEc,USDE,"USDE tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,VVVc,VVV,"VVV tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,WENc,WEN,"WEN tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,WULFc,WULF,"WULF tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,WWc,WW,"WW tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Coinbase,XYZc,XYZ,"XYZ tokenized stock",,logo_pendente,https://www.coinbase.com/en-pt/tokenize
+Robinhood,SPY,SPY,"SPY tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NVDA,NVDA,"NVDA tokenized stock",stocks/nvdax_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,META,META,"META tokenized stock",stocks/metax_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,GOOGL,GOOGL,"GOOGL tokenized stock",stocks/googlx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,CRCL,CRCL,"CRCL tokenized stock",stocks/crclx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,AAPL,AAPL,"AAPL tokenized stock",stocks/aaplx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,QQQ,QQQ,"QQQ tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,TSLA,TSLA,"TSLA tokenized stock",stocks/tslax_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,MU,MU,"MU tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,MSTR,MSTR,"MSTR tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,AMZN,AMZN,"AMZN tokenized stock",stocks/amznx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,GME,GME,"GME tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,COIN,COIN,"COIN tokenized stock",stocks/coinx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,USO,USO,"USO tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SGOV,SGOV,"SGOV tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,PLTR,PLTR,"PLTR tokenized stock",stocks/pltrx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,MSFT,MSFT,"MSFT tokenized stock",stocks/msftx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,RDDT,RDDT,"RDDT tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,INTC,INTC,"INTC tokenized stock",stocks/intcx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,AMD,AMD,"AMD tokenized stock",stocks/amdx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SNDK,SNDK,"SNDK tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SLV,SLV,"SLV tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,TTWO,TTWO,"TTWO tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,TSM,TSM,"TSM tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,LLY,LLY,"LLY tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,COST,COST,"COST tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,BABA,BABA,"BABA tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,ORCL,ORCL,"ORCL tokenized stock",stocks/orclx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,BE,BE,"BE tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NFLX,NFLX,"NFLX tokenized stock",stocks/nflxx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,RBLX,RBLX,"RBLX tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,USAR,USAR,"USAR tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,CRWV,CRWV,"CRWV tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,DELL,DELL,"DELL tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,RIVN,RIVN,"RIVN tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,LULU,LULU,"LULU tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NBIS,NBIS,"NBIS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,MRVL,MRVL,"MRVL tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NNE,NNE,"NNE tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,QUBT,QUBT,"QUBT tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,UPS,UPS,"UPS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,F,F,"F tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,AVGO,AVGO,"AVGO tokenized stock",stocks/avgox_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,BA,BA,"BA tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,LITE,LITE,"LITE tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,EWY,EWY,"EWY tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NU,NU,"NU tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,ASML,ASML,"ASML tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,CBRS,CBRS,"CBRS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,AMAT,AMAT,"AMAT tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,RKLB,RKLB,"RKLB tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,DDOG,DDOG,"DDOG tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SHOP,SHOP,"SHOP tokenized stock",stocks/shopx_logo.svg,logo_existente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,PENG,PENG,"PENG tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,QCOM,QCOM,"QCOM tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SOXX,SOXX,"SOXX tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SOFI,SOFI,"SOFI tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,ZM,ZM,"ZM tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,ASTS,ASTS,"ASTS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NOW,NOW,"NOW tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,WDAY,WDAY,"WDAY tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,CCL,CCL,"CCL tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,FUTU,FUTU,"FUTU tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,IREN,IREN,"IREN tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,XOM,XOM,"XOM tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,AAOI,AAOI,"AAOI tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,P,P,"P tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,IONQ,IONQ,"IONQ tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SMCI,SMCI,"SMCI tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,ELF,ELF,"ELF tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,POET,POET,"POET tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,CRWD,CRWD,"CRWD tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,RDW,RDW,"RDW tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,APLD,APLD,"APLD tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,LUNR,LUNR,"LUNR tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,MDB,MDB,"MDB tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,MXL,MXL,"MXL tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,XLK,XLK,"XLK tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SPMO,SPMO,"SPMO tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,CELH,CELH,"CELH tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,TSEM,TSEM,"TSEM tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,INTU,INTU,"INTU tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,RGTI,RGTI,"RGTI tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,QBTS,QBTS,"QBTS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,GLW,GLW,"GLW tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,ZS,ZS,"ZS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,INOD,INOD,"INOD tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,FLNC,FLNC,"FLNC tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,CLSK,CLSK,"CLSK tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,UMC,UMC,"UMC tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SPCX,SPCX,"SPCX tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,HIMS,HIMS,"HIMS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,GLD,GLD,"GLD tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,AMC,AMC,"AMC tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,DJT,DJT,"DJT tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,MRNA,MRNA,"MRNA tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SNAP,SNAP,"SNAP tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,GLXY,GLXY,"GLXY tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,FIG,FIG,"FIG tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,IBM,IBM,"IBM tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,ARM,ARM,"ARM tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,XNDU,XNDU,"XNDU tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,SATS,SATS,"SATS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,RVI,RVI,"RVI tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NASA,NASA,"NASA tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NOK,NOK,"NOK tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,NVTS,NVTS,"NVTS tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,PR,PR,"PR tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/
+Robinhood,DRAM,DRAM,"DRAM tokenized stock",,logo_pendente,https://coinmarketcap.com/view/robinhood-stock/

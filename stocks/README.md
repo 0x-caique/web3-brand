@@ -1,3 +1,3 @@
 # Stocks
 
-22 logos SVG coloridos das empresas subjacentes às principais ações/ações tokenizadas. Os tickers dos arquivos seguem os símbolos dos instrumentos tokenizados quando aplicável: `nvdax_logo.svg` representa a marca da NVIDIA (ticker NVDA). Os SVGs são fornecidos pela coleção ticker-logos e creditados como Finnhub dentro dos próprios arquivos; cores e fundos são preservados da fonte. A listagem por ticker não garante a existência ou disponibilidade de um token específico.
+O diretório guarda logos SVG de ações e arquivos legados de produtos como `nvdax_logo.svg`. O índice [STOCK_ISSUER_CATALOG.csv](../STOCK_ISSUER_CATALOG.csv) relaciona 680 produtos da Coinbase, Robinhood, Ondo e xStocks aos tickers subjacentes. `logo_status` indica se já existe logo correspondente no repositório.

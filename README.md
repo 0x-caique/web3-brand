@@ -1,24 +1,13 @@
 # Web3 Brand
 
-Coleção de logos SVG para criptoativos, ações tokenizadas, RWA, redes blockchain e protocolos DeFi. Os arquivos foram mantidos em SVG com as cores e os fundos presentes nas fontes; não foram convertidos em ícones monocromáticos.
+Coleção de logos SVG para tokens, ações tokenizadas, RWA, redes e protocolos DeFi.
 
-## Pastas
+- `tokens/`: 83 logos SVG de tokens selecionados entre CoinGecko/CoinMarketCap e Web3Icons.
+- `stocks/`: logos de ações e arquivos legados de produtos como `nvdax_logo.svg`.
+- `STOCK_ISSUER_CATALOG.csv`: 680 produtos catalogados de Coinbase, Robinhood, Ondo e xStocks, com ticker subjacente, fonte, caminho de logo se existente e status.
+- `ASSET_SOURCES.csv`: origem dos SVGs.
+- `rwa/`, `networks/`, `defi-protocols/`: coleções restantes.
 
-- `tokens/`: 44 tokens selecionados entre os principais ativos do CoinGecko e CoinMarketCap.
-- `stocks/`: 22 logos de empresas por ticker subjacente. Os nomes de arquivo seguem símbolos de ações tokenizadas quando aplicável (`nvdax_logo.svg` usa a marca da NVIDIA/NVDA).
-- `rwa/`: logos para ativos ligados a RWAs: CFG, MKR, PAXG e XAUT.
-- `networks/`: redes blockchain L1 e L2.
-- `defi-protocols/`: protocolos DeFi.
+O índice relaciona tickers de produtos diferentes ao mesmo ativo subjacente. `logo_pendente` marca os ativos para os quais o repositório ainda não tem um SVG correspondente.
 
-Existe uma pasta única para cada categoria. Um mesmo logo pode aparecer em mais de uma categoria quando o ativo serve a ambas (por exemplo, um token de rede também pode ter sua própria pasta em `networks/`).
-
-## Origem dos arquivos
-
-- Logos coloridos de tokens: variante `background` do [Web3Icons](https://github.com/0xa3k5/web3icons).
-- Logos de redes: variante `branded` do [Web3Icons](https://github.com/0xa3k5/web3icons).
-- Logos de ações: SVGs da coleção [ticker-logos](https://github.com/ShaadyEmad/ticker-logos), creditada nos próprios arquivos como Finnhub, selecionados pelo ticker da empresa subjacente.
-- Veja [ASSET_SOURCES.csv](ASSET_SOURCES.csv) para rastrear cada arquivo adicionado ou atualizado.
-
-As seleções de tokens e categorias usam [CoinGecko](https://www.coingecko.com/en/all-cryptocurrencies), [CoinMarketCap](https://coinmarketcap.com/coins/views/all/), [CoinGecko Tokenized Stocks](https://www.coingecko.com/en/stocks) e [CoinGecko Tokenized Products](https://www.coingecko.com/en/categories/tokenized-products). Os rankings variam com o mercado; revisão feita em 5 de outubro de 2026.
-
-Veja [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) para atribuições e notas de direitos de uso.
+Fontes: [Coinbase Tokenize](https://www.coinbase.com/en-pt/tokenize), [CoinMarketCap Robinhood](https://coinmarketcap.com/view/robinhood-stock/), [lista oficial Ondo](https://github.com/ondoprotocol/ondo-global-markets-token-list), [lista xStocks](https://github.com/backed-fi/cowswap-xstocks-tokenlist), [Web3Icons](https://github.com/0xa3k5/web3icons). Coleta em 5 de outubro de 2026. O CoinGecko cataloga outros emissores; esta atualização cobre as quatro fontes acima.
